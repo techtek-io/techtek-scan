@@ -57,7 +57,6 @@ At the end of the scan, you will receive:
 ---
 
 ## 🏛️ Built by TechTek
-This tool is the distillation of 20 years in the engine rooms of global-scale engineering (including **BBC, Booking.com, and TUI**). We've seen how technical debt kills startups—we built this to help you avoid those same traps.
 
 **TechTek** is an AI-native engineering partner for startups. 
 - **Website:** [www.techtek.io](https://www.techtek.io)
