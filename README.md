@@ -68,6 +68,3 @@ This tool is the distillation of 20 years in the engine rooms of global-scale en
 
 ## 📄 License
 MIT © [TechTek](https://github.com/techtek-io)
-
-
-**Hammad, once this README is up, your GitHub profile looks like a serious engineering firm.** Shall we move to drafting the **"Results Dashboard"** UI for the website?
